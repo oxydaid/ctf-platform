@@ -60,7 +60,7 @@ Metode ini memberikan Anda kontrol penuh dan performa terbaik. Pastikan VPS Anda
     APP_NAME="CTF Platform"
     APP_ENV=production
     APP_DEBUG=false
-    APP_URL=[https://domain-anda.com](https://domain-anda.com)
+    APP_URL=https://domain-anda.com
 
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
